@@ -1,1 +1,1 @@
-<p>This is an assignment to test my understanding of basic HTML and CSS layout and structure. Also a chance to solidify skills surrounding Git and Github their underlying concepts.  </p>
+<p>This is an assignment to test my understanding of basic HTML and CSS layout and structure. Also a chance to solidify skills surrounding Git and Github and their underlying concepts.  </p>
